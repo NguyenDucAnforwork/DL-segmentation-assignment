@@ -5,7 +5,7 @@ This repository contains the code and resources for the BKAI-IGH NeoPolyp Segmen
 
 # Checkpoints
 The model checkpoints are available for download via the following Google Drive link:
-Google Drive: Checkpoints
+[Google Drive: Checkpoints](https://drive.google.com/drive/folders/1hVOE7Qhjh5xCgyoOlpyyhYKaX_kjjx7_)
 
 # Directory Structure
 After downloading the checkpoints folder, your repository should be structured as follows:
