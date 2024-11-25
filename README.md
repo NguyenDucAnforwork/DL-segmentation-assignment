@@ -12,7 +12,7 @@ After downloading the checkpoints folder, your repository should be structured a
 
 / ├── checkpoints/ # Directory for saved model checkpoints
 
-│ └── colorization_model.pth
+│ └── model.pth
 
 ├── infer.py # Inference script
 
